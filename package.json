@@ -1,0 +1,9 @@
+{
+  "name": "lambda-demo",
+  "scripts": {
+    "deploy": "sls deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
